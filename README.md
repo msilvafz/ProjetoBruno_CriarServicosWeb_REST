@@ -1,8 +1,33 @@
-# React + Vite
+# 📚 CRIAR SERVIÇOS WEB COM REST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📜 Projeto
 
-Currently, two official plugins are available:
+O objetivo deste projeto é criar uma **plataforma online** para ofertar cursos, proporcionando uma gestão completa do conteúdo educacional. A plataforma deve:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 Permitir o **cadastro**, **compra**, **acesso** e **gerenciamento** de cursos pelos alunos.
+- 🛠️ Fornecer **ferramentas** para que os instrutores possam **criar**, **atualizar** e **acompanhar** o desempenho dos cursos oferecidos.
+
+## 🎯 Objetivos do Projeto
+
+- **Cadastro e Gerenciamento de Usuários**: Facilitar o registro e a administração de perfis de alunos e instrutores.
+- **Gestão de Cursos**: Permitir que instrutores adicionem, modifiquem e acompanhem seus cursos.
+- **Interface de Aprendizagem**: Oferecer uma experiência de usuário intuitiva para a compra e acesso a cursos.
+- **Monitoramento de Desempenho**: Fornecer relatórios e análises sobre o progresso dos alunos e a eficácia dos cursos.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Frontend**: HTML, CSS, Javascript, ReactJS, Bootstrap
+- **Outras Ferramentas**: Git
+
+## 👨🏽‍🏫 Docente
+
+- **BRUNO RAFAEL ARAUJO VASCONCELOS**
+
+## 👤 Equipe do Projeto
+
+- Iasmin Amorim Torquato
+- Igor Gomes Batista dos Santos
+- Vitor Tissaleah Bezerra
+- Kevinn Berliet dos Santos Monteiro
+- Wesley Matheus Santos Silva
+- Luis Eduardo de Oliveira Ramos  
